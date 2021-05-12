@@ -3,331 +3,2973 @@
         "name": "Египет",
         "leader": "Клеопатра",
         "moments": {
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 1,
-            "MOMENT_BATTLE_FOUGHT": 236,
-            "MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER": 9,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 10,
-            "MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN": 1,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": 2,
-            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": 1,
-            "MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY": 1,
-            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD": 1,
-            "MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD": 1,
-            "MOMENT_CITY_SIZE_MEDIUM_FIRST": 1,
-            "MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD": 1,
-            "MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY": 1,
-            "MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL": 3,
-            "MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED": 3,
-            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": 2,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 6,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD": 2,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 7,
-            "MOMENT_DISTRICT_CONSTRUCTED_CANAL": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD": 1,
-            "MOMENT_FIND_NATURAL_WONDER": 3,
-            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": 1,
-            "MOMENT_FORMATION_ARMY_FIRST": 1,
-            "MOMENT_FORMATION_CORPS_FIRST_IN_WORLD": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": 3,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 4,
-            "MOMENT_GOODY_HUT_TRIGGERED": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD": 1,
-            "MOMENT_GOVERNOR_ALL_APPOINTED_FIRST": 1,
-            "MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 45,
-            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": 21,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST": 1,
-            "MOMENT_MITIGATED_RIVER_FLOOD": 1,
-            "MOMENT_PANTHEON_FOUNDED": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY": 2,
-            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR": 4,
-            "MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD": 1,
-            "MOMENT_PROJECT_FOUNDED_MANHATTEN": 1,
-            "MOMENT_PROJECT_FOUNDED_MARS": 1,
-            "MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD": 1,
-            "MOMENT_PROJECT_FOUNDED_OPERATION_IVY": 1,
-            "MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD": 1,
-            "MOMENT_RELIGION_FOUNDED": 1,
-            "MOMENT_SHIP_SUNK": 3,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 3,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD": 5,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD": 1,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 3,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": 2,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL": 1,
-            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": 2,
-            "MOMENT_WORLD_CIRCUMNAVIGATED": 1
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 1,
+                "turn": [
+                    18
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 236,
+                "turn": [
+                    17,
+                    18,
+                    19,
+                    22,
+                    23,
+                    24,
+                    28,
+                    29,
+                    34,
+                    39,
+                    47,
+                    48,
+                    50,
+                    54,
+                    55,
+                    115,
+                    115,
+                    115,
+                    115,
+                    116,
+                    117,
+                    117,
+                    117,
+                    118,
+                    118,
+                    118,
+                    119,
+                    120,
+                    120,
+                    121,
+                    122,
+                    122,
+                    123,
+                    123,
+                    123,
+                    123,
+                    124,
+                    124,
+                    124,
+                    124,
+                    137,
+                    137,
+                    137,
+                    137,
+                    138,
+                    138,
+                    139,
+                    139,
+                    139,
+                    140,
+                    140,
+                    140,
+                    140,
+                    142,
+                    143,
+                    143,
+                    143,
+                    143,
+                    143,
+                    143,
+                    144,
+                    144,
+                    144,
+                    144,
+                    144,
+                    144,
+                    144,
+                    144,
+                    145,
+                    145,
+                    145,
+                    146,
+                    146,
+                    146,
+                    146,
+                    147,
+                    148,
+                    148,
+                    148,
+                    148,
+                    148,
+                    149,
+                    149,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    150,
+                    151,
+                    151,
+                    151,
+                    151,
+                    151,
+                    151,
+                    152,
+                    152,
+                    152,
+                    152,
+                    153,
+                    153,
+                    153,
+                    154,
+                    154,
+                    154,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    158,
+                    158,
+                    158,
+                    158,
+                    158,
+                    158,
+                    159,
+                    159,
+                    159,
+                    159,
+                    159,
+                    159,
+                    161,
+                    161,
+                    162,
+                    162,
+                    162,
+                    163,
+                    163,
+                    163,
+                    164,
+                    166,
+                    166,
+                    168,
+                    171,
+                    171,
+                    171,
+                    171,
+                    173,
+                    173,
+                    174,
+                    174,
+                    174,
+                    174,
+                    175,
+                    175,
+                    175,
+                    176,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    180,
+                    180,
+                    180,
+                    181,
+                    181,
+                    181,
+                    182,
+                    182,
+                    183,
+                    183,
+                    185,
+                    186,
+                    187,
+                    187,
+                    198,
+                    198,
+                    199,
+                    199,
+                    200,
+                    200,
+                    210,
+                    210,
+                    210,
+                    210,
+                    211,
+                    211,
+                    211,
+                    211,
+                    211,
+                    212,
+                    212,
+                    212,
+                    212,
+                    212,
+                    213,
+                    213,
+                    213,
+                    214,
+                    216,
+                    216,
+                    217,
+                    217,
+                    220,
+                    220,
+                    220,
+                    220,
+                    221,
+                    221,
+                    221,
+                    221,
+                    221,
+                    222,
+                    222,
+                    224,
+                    225,
+                    227,
+                    228,
+                    230,
+                    231,
+                    231,
+                    231,
+                    232,
+                    232,
+                    232,
+                    232,
+                    233,
+                    233,
+                    233,
+                    233,
+                    233,
+                    234,
+                    234,
+                    234,
+                    234,
+                    235,
+                    235,
+                    235,
+                    235,
+                    235,
+                    236,
+                    236,
+                    237,
+                    237
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER": {
+                "amount": 9,
+                "turn": [
+                    90,
+                    131,
+                    139,
+                    139,
+                    149,
+                    171,
+                    172,
+                    174,
+                    192
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 10,
+                "turn": [
+                    58,
+                    78,
+                    108,
+                    112,
+                    115,
+                    118,
+                    163,
+                    182,
+                    184,
+                    208
+                ]
+            },
+            "MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN": {
+                "amount": 1,
+                "turn": [
+                    225
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    1
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": {
+                "amount": 2,
+                "turn": [
+                    97,
+                    128
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": {
+                "amount": 1,
+                "turn": [
+                    75
+                ]
+            },
+            "MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY": {
+                "amount": 1,
+                "turn": [
+                    126
+                ]
+            },
+            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    123
+                ]
+            },
+            "MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    185
+                ]
+            },
+            "MOMENT_CITY_SIZE_MEDIUM_FIRST": {
+                "amount": 1,
+                "turn": [
+                    146
+                ]
+            },
+            "MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    62
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY": {
+                "amount": 1,
+                "turn": [
+                    173
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL": {
+                "amount": 3,
+                "turn": [
+                    124,
+                    211,
+                    220
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED": {
+                "amount": 3,
+                "turn": [
+                    164,
+                    187,
+                    217
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": {
+                "amount": 2,
+                "turn": [
+                    235,
+                    237
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 6,
+                "turn": [
+                    41,
+                    76,
+                    102,
+                    127,
+                    153,
+                    168
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    185,
+                    201
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 7,
+                "turn": [
+                    153,
+                    163,
+                    171,
+                    176,
+                    180,
+                    184,
+                    187
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_CANAL": {
+                "amount": 1,
+                "turn": [
+                    139
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": {
+                "amount": 1,
+                "turn": [
+                    33
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB": {
+                "amount": 1,
+                "turn": [
+                    130
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE": {
+                "amount": 1,
+                "turn": [
+                    71
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    149
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 3,
+                "turn": [
+                    44,
+                    119,
+                    192
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    50
+                ]
+            },
+            "MOMENT_FORMATION_ARMY_FIRST": {
+                "amount": 1,
+                "turn": [
+                    161
+                ]
+            },
+            "MOMENT_FORMATION_CORPS_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    127
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 1,
+                "turn": [
+                    223
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": {
+                "amount": 3,
+                "turn": [
+                    61,
+                    121,
+                    151
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 4,
+                "turn": [
+                    31,
+                    91,
+                    181,
+                    201
+                ]
+            },
+            "MOMENT_GOODY_HUT_TRIGGERED": {
+                "amount": 1,
+                "turn": [
+                    2
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": {
+                "amount": 1,
+                "turn": [
+                    41
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": {
+                "amount": 1,
+                "turn": [
+                    102
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": {
+                "amount": 1,
+                "turn": [
+                    164
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    194
+                ]
+            },
+            "MOMENT_GOVERNOR_ALL_APPOINTED_FIRST": {
+                "amount": 1,
+                "turn": [
+                    127
+                ]
+            },
+            "MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST": {
+                "amount": 1,
+                "turn": [
+                    224
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 45,
+                "turn": [
+                    46,
+                    55,
+                    70,
+                    70,
+                    78,
+                    85,
+                    88,
+                    99,
+                    107,
+                    108,
+                    113,
+                    116,
+                    119,
+                    123,
+                    130,
+                    133,
+                    136,
+                    142,
+                    143,
+                    143,
+                    144,
+                    144,
+                    149,
+                    155,
+                    158,
+                    159,
+                    164,
+                    172,
+                    178,
+                    179,
+                    180,
+                    189,
+                    191,
+                    192,
+                    193,
+                    198,
+                    200,
+                    204,
+                    211,
+                    213,
+                    213,
+                    216,
+                    218,
+                    221,
+                    223
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": {
+                "amount": 21,
+                "turn": [
+                    73,
+                    103,
+                    125,
+                    126,
+                    130,
+                    156,
+                    162,
+                    162,
+                    181,
+                    181,
+                    181,
+                    184,
+                    185,
+                    190,
+                    202,
+                    202,
+                    204,
+                    224,
+                    228,
+                    229,
+                    230
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    27
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    75
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST": {
+                "amount": 1,
+                "turn": [
+                    184
+                ]
+            },
+            "MOMENT_MITIGATED_RIVER_FLOOD": {
+                "amount": 1,
+                "turn": [
+                    113
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    51
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    44
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY": {
+                "amount": 2,
+                "turn": [
+                    150,
+                    210
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR": {
+                "amount": 4,
+                "turn": [
+                    118,
+                    145,
+                    150,
+                    210
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    101
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    8,
+                    11,
+                    96,
+                    100
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    228
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MANHATTEN": {
+                "amount": 1,
+                "turn": [
+                    196
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MARS": {
+                "amount": 1,
+                "turn": [
+                    221
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    201
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_OPERATION_IVY": {
+                "amount": 1,
+                "turn": [
+                    227
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    192
+                ]
+            },
+            "MOMENT_RELIGION_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    126
+                ]
+            },
+            "MOMENT_SHIP_SUNK": {
+                "amount": 3,
+                "turn": [
+                    213,
+                    214,
+                    216
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 3,
+                "turn": [
+                    31,
+                    109,
+                    172
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD": {
+                "amount": 5,
+                "turn": [
+                    48,
+                    76,
+                    125,
+                    140,
+                    188
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    167
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": {
+                "amount": 1,
+                "turn": [
+                    181
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 3,
+                "turn": [
+                    90,
+                    103,
+                    182
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    167,
+                    195
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    117
+                ]
+            },
+            "MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL": {
+                "amount": 1,
+                "turn": [
+                    120
+                ]
+            },
+            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": {
+                "amount": 2,
+                "turn": [
+                    235,
+                    236
+                ]
+            },
+            "MOMENT_WORLD_CIRCUMNAVIGATED": {
+                "amount": 1,
+                "turn": [
+                    122
+                ]
+            }
         }
     },
     "1": {
         "name": "Россия",
         "leader": "Петр Великий",
         "moments": {
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 3,
-            "MOMENT_BATTLE_FOUGHT": 84,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 6,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": 1,
-            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": 1,
-            "MOMENT_CITY_BUILT_NEAR_VOLCANO": 1,
-            "MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR": 4,
-            "MOMENT_CITY_SIZE_SMALL_FIRST": 1,
-            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": 2,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 4,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 7,
-            "MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE": 1,
-            "MOMENT_FIND_NATURAL_WONDER": 3,
-            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 2,
-            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": 2,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 2,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 7,
-            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": 2,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD": 1,
-            "MOMENT_MITIGATED_RIVER_FLOOD": 1,
-            "MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_LEVIED_MILITARY": 1,
-            "MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY": 1,
-            "MOMENT_PLAYER_MET_ALL_MAJORS": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_RELIGION_FOUNDED": 1,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 4,
-            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": 1,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 3,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_WAR_DECLARED_USING_CASUS_BELLI": 1,
-            "MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD": 1
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 3,
+                "turn": [
+                    30,
+                    37,
+                    64
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 84,
+                "turn": [
+                    10,
+                    11,
+                    15,
+                    21,
+                    23,
+                    25,
+                    25,
+                    26,
+                    26,
+                    27,
+                    28,
+                    28,
+                    29,
+                    29,
+                    29,
+                    30,
+                    32,
+                    32,
+                    33,
+                    33,
+                    34,
+                    35,
+                    37,
+                    37,
+                    37,
+                    41,
+                    44,
+                    44,
+                    45,
+                    47,
+                    48,
+                    55,
+                    56,
+                    56,
+                    57,
+                    58,
+                    64,
+                    68,
+                    69,
+                    70,
+                    83,
+                    89,
+                    90,
+                    101,
+                    102,
+                    115,
+                    116,
+                    118,
+                    118,
+                    119,
+                    119,
+                    120,
+                    120,
+                    121,
+                    121,
+                    121,
+                    122,
+                    123,
+                    123,
+                    124,
+                    142,
+                    143,
+                    143,
+                    144,
+                    146,
+                    161,
+                    172,
+                    173,
+                    176,
+                    179,
+                    179,
+                    179,
+                    181,
+                    181,
+                    182,
+                    182,
+                    183,
+                    183,
+                    184,
+                    184,
+                    186,
+                    186,
+                    187,
+                    187
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 6,
+                "turn": [
+                    68,
+                    79,
+                    83,
+                    101,
+                    110,
+                    115
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    21
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": {
+                "amount": 1,
+                "turn": [
+                    61
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": {
+                "amount": 1,
+                "turn": [
+                    122
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_VOLCANO": {
+                "amount": 1,
+                "turn": [
+                    105
+                ]
+            },
+            "MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR": {
+                "amount": 4,
+                "turn": [
+                    118,
+                    126,
+                    138,
+                    147
+                ]
+            },
+            "MOMENT_CITY_SIZE_SMALL_FIRST": {
+                "amount": 1,
+                "turn": [
+                    112
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": {
+                "amount": 2,
+                "turn": [
+                    230,
+                    236
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 4,
+                "turn": [
+                    58,
+                    91,
+                    129,
+                    184
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 7,
+                "turn": [
+                    153,
+                    163,
+                    171,
+                    176,
+                    180,
+                    184,
+                    187
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    51
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 3,
+                "turn": [
+                    55,
+                    111,
+                    126
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    11
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 2,
+                "turn": [
+                    151,
+                    181
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": {
+                "amount": 2,
+                "turn": [
+                    91,
+                    121
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 2,
+                "turn": [
+                    31,
+                    61
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": {
+                "amount": 1,
+                "turn": [
+                    58
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": {
+                "amount": 1,
+                "turn": [
+                    96
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 7,
+                "turn": [
+                    49,
+                    69,
+                    87,
+                    88,
+                    90,
+                    108,
+                    111
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": {
+                "amount": 2,
+                "turn": [
+                    63,
+                    125
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    43
+                ]
+            },
+            "MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    119
+                ]
+            },
+            "MOMENT_MITIGATED_RIVER_FLOOD": {
+                "amount": 1,
+                "turn": [
+                    99
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    12
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    77
+                ]
+            },
+            "MOMENT_PLAYER_LEVIED_MILITARY": {
+                "amount": 1,
+                "turn": [
+                    138
+                ]
+            },
+            "MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY": {
+                "amount": 1,
+                "turn": [
+                    143
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS": {
+                "amount": 1,
+                "turn": [
+                    108
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    8,
+                    60,
+                    102,
+                    102
+                ]
+            },
+            "MOMENT_RELIGION_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    65
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 4,
+                "turn": [
+                    45,
+                    60,
+                    100,
+                    145
+                ]
+            },
+            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": {
+                "amount": 1,
+                "turn": [
+                    73
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": {
+                "amount": 1,
+                "turn": [
+                    178
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 3,
+                "turn": [
+                    75,
+                    170,
+                    180
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    180
+                ]
+            },
+            "MOMENT_WAR_DECLARED_USING_CASUS_BELLI": {
+                "amount": 1,
+                "turn": [
+                    140
+                ]
+            },
+            "MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    113
+                ]
+            }
         }
     },
     "2": {
         "name": "Англия",
         "leader": "Алиенора Аквитанская",
         "moments": {
-            "MOMENT_ARTIFACT_EXTRACTED": 3,
-            "MOMENT_BARBARIAN_CAMP_DESTROYED": 2,
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 1,
-            "MOMENT_BATTLE_FOUGHT": 68,
-            "MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 13,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": 1,
-            "MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR": 2,
-            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": 1,
-            "MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD": 1,
-            "MOMENT_CITY_SIZE_SMALL_FIRST": 1,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 6,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 7,
-            "MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": 1,
-            "MOMENT_FIND_NATURAL_WONDER": 3,
-            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": 1,
-            "MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD": 1,
-            "MOMENT_FORMATION_CORPS_FIRST": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": 3,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 3,
-            "MOMENT_GOODY_HUT_TRIGGERED": 4,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 9,
-            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": 5,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_PANTHEON_FOUNDED": 1,
-            "MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT": 2,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 3,
-            "MOMENT_PLAYER_LEVIED_MILITARY": 1,
-            "MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY": 1,
-            "MOMENT_PLAYER_MET_ALL_MAJORS": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD": 1,
-            "MOMENT_SHIP_SUNK": 1,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 7,
-            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": 2,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR": 1,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 3,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": 2,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_WORLD_CIRCUMNAVIGATED": 1
+            "MOMENT_ARTIFACT_EXTRACTED": {
+                "amount": 3,
+                "turn": [
+                    196,
+                    198,
+                    200
+                ]
+            },
+            "MOMENT_BARBARIAN_CAMP_DESTROYED": {
+                "amount": 2,
+                "turn": [
+                    66,
+                    75
+                ]
+            },
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 1,
+                "turn": [
+                    40
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 68,
+                "turn": [
+                    8,
+                    9,
+                    10,
+                    17,
+                    18,
+                    19,
+                    22,
+                    23,
+                    25,
+                    26,
+                    27,
+                    28,
+                    28,
+                    29,
+                    30,
+                    33,
+                    34,
+                    35,
+                    36,
+                    36,
+                    37,
+                    37,
+                    38,
+                    39,
+                    40,
+                    40,
+                    41,
+                    41,
+                    42,
+                    42,
+                    44,
+                    48,
+                    48,
+                    49,
+                    50,
+                    55,
+                    56,
+                    56,
+                    58,
+                    61,
+                    61,
+                    62,
+                    62,
+                    63,
+                    66,
+                    66,
+                    66,
+                    75,
+                    75,
+                    76,
+                    152,
+                    206,
+                    206,
+                    206,
+                    208,
+                    208,
+                    209,
+                    209,
+                    209,
+                    210,
+                    211,
+                    211,
+                    211,
+                    212,
+                    212,
+                    212,
+                    213,
+                    215
+                ]
+            },
+            "MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    89
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": {
+                "amount": 1,
+                "turn": [
+                    207
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 13,
+                "turn": [
+                    33,
+                    68,
+                    88,
+                    101,
+                    103,
+                    127,
+                    131,
+                    135,
+                    150,
+                    162,
+                    162,
+                    171,
+                    187
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    1
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": {
+                "amount": 1,
+                "turn": [
+                    86
+                ]
+            },
+            "MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR": {
+                "amount": 2,
+                "turn": [
+                    204,
+                    209
+                ]
+            },
+            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    159
+                ]
+            },
+            "MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    120
+                ]
+            },
+            "MOMENT_CITY_SIZE_SMALL_FIRST": {
+                "amount": 1,
+                "turn": [
+                    63
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 6,
+                "turn": [
+                    43,
+                    89,
+                    121,
+                    146,
+                    162,
+                    201
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 7,
+                "turn": [
+                    153,
+                    163,
+                    171,
+                    176,
+                    180,
+                    184,
+                    187
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    91
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": {
+                "amount": 1,
+                "turn": [
+                    181
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 3,
+                "turn": [
+                    139,
+                    160,
+                    160
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    8
+                ]
+            },
+            "MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    205
+                ]
+            },
+            "MOMENT_FORMATION_CORPS_FIRST": {
+                "amount": 1,
+                "turn": [
+                    159
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 1,
+                "turn": [
+                    201
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": {
+                "amount": 3,
+                "turn": [
+                    61,
+                    121,
+                    181
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 3,
+                "turn": [
+                    31,
+                    91,
+                    151
+                ]
+            },
+            "MOMENT_GOODY_HUT_TRIGGERED": {
+                "amount": 4,
+                "turn": [
+                    5,
+                    8,
+                    13,
+                    24
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": {
+                "amount": 1,
+                "turn": [
+                    43
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": {
+                "amount": 1,
+                "turn": [
+                    101
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": {
+                "amount": 1,
+                "turn": [
+                    195
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 9,
+                "turn": [
+                    33,
+                    116,
+                    140,
+                    146,
+                    169,
+                    176,
+                    186,
+                    197,
+                    205
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": {
+                "amount": 5,
+                "turn": [
+                    92,
+                    103,
+                    126,
+                    154,
+                    202
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    55
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    15
+                ]
+            },
+            "MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT": {
+                "amount": 2,
+                "turn": [
+                    161,
+                    181
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 3,
+                "turn": [
+                    40,
+                    45,
+                    127
+                ]
+            },
+            "MOMENT_PLAYER_LEVIED_MILITARY": {
+                "amount": 1,
+                "turn": [
+                    209
+                ]
+            },
+            "MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY": {
+                "amount": 1,
+                "turn": [
+                    205
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS": {
+                "amount": 1,
+                "turn": [
+                    120
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    27,
+                    43,
+                    96,
+                    108
+                ]
+            },
+            "MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    34
+                ]
+            },
+            "MOMENT_SHIP_SUNK": {
+                "amount": 1,
+                "turn": [
+                    76
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 7,
+                "turn": [
+                    37,
+                    69,
+                    112,
+                    136,
+                    161,
+                    179,
+                    202
+                ]
+            },
+            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": {
+                "amount": 2,
+                "turn": [
+                    130,
+                    185
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR": {
+                "amount": 1,
+                "turn": [
+                    204
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    103
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 3,
+                "turn": [
+                    125,
+                    186,
+                    209
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    56,
+                    116
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    156
+                ]
+            },
+            "MOMENT_WORLD_CIRCUMNAVIGATED": {
+                "amount": 1,
+                "turn": [
+                    125
+                ]
+            }
         }
     },
     "3": {
         "name": "Нубия",
         "leader": "Аманиторе",
         "moments": {
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 3,
-            "MOMENT_BATTLE_FOUGHT": 134,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 6,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_VOLCANO": 1,
-            "MOMENT_CITY_BUILT_ON_DESERT": 4,
-            "MOMENT_CITY_BUILT_ON_TUNDRA": 1,
-            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": 1,
-            "MOMENT_CITY_SIZE_SMALL_FIRST": 1,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 7,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 7,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": 1,
-            "MOMENT_FIND_NATURAL_WONDER": 4,
-            "MOMENT_FORMATION_ARMY_FIRST": 1,
-            "MOMENT_FORMATION_CORPS_FIRST": 1,
-            "MOMENT_FORMATION_FLEET_FIRST_IN_WORLD": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 6,
-            "MOMENT_GOODY_HUT_TRIGGERED": 3,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 15,
-            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": 6,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST": 1,
-            "MOMENT_MITIGATED_RIVER_FLOOD": 1,
-            "MOMENT_PANTHEON_FOUNDED": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_LEVIED_MILITARY": 1,
-            "MOMENT_PLAYER_MET_ALL_MAJORS": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_PROJECT_FOUNDED_MANHATTEN": 1,
-            "MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD": 1,
-            "MOMENT_PROJECT_FOUNDED_MOON_LANDING": 1,
-            "MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH": 1,
-            "MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD": 1,
-            "MOMENT_SHIP_SUNK": 3,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 8,
-            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": 2,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 4,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": 1,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL": 3,
-            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": 1
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 3,
+                "turn": [
+                    34,
+                    42,
+                    64
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 134,
+                "turn": [
+                    17,
+                    22,
+                    23,
+                    24,
+                    25,
+                    25,
+                    26,
+                    26,
+                    27,
+                    27,
+                    28,
+                    28,
+                    29,
+                    30,
+                    31,
+                    31,
+                    32,
+                    33,
+                    33,
+                    35,
+                    36,
+                    38,
+                    38,
+                    39,
+                    39,
+                    40,
+                    44,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    59,
+                    59,
+                    60,
+                    61,
+                    61,
+                    62,
+                    62,
+                    63,
+                    63,
+                    64,
+                    66,
+                    66,
+                    133,
+                    133,
+                    133,
+                    134,
+                    134,
+                    134,
+                    134,
+                    134,
+                    135,
+                    135,
+                    135,
+                    135,
+                    135,
+                    136,
+                    136,
+                    136,
+                    137,
+                    137,
+                    137,
+                    137,
+                    137,
+                    137,
+                    138,
+                    138,
+                    138,
+                    138,
+                    139,
+                    139,
+                    139,
+                    140,
+                    140,
+                    140,
+                    140,
+                    140,
+                    140,
+                    142,
+                    142,
+                    142,
+                    143,
+                    143,
+                    144,
+                    144,
+                    144,
+                    145,
+                    145,
+                    145,
+                    145,
+                    147,
+                    147,
+                    148,
+                    150,
+                    150,
+                    151,
+                    151,
+                    151,
+                    152,
+                    152,
+                    152,
+                    153,
+                    153,
+                    153,
+                    160,
+                    163,
+                    163,
+                    163,
+                    163,
+                    164,
+                    164,
+                    164,
+                    165,
+                    165,
+                    166,
+                    166,
+                    167,
+                    168,
+                    169,
+                    169,
+                    180,
+                    181,
+                    181,
+                    182,
+                    182,
+                    182,
+                    200,
+                    233,
+                    237,
+                    238,
+                    238,
+                    238
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": {
+                "amount": 1,
+                "turn": [
+                    119
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 6,
+                "turn": [
+                    79,
+                    114,
+                    161,
+                    169,
+                    177,
+                    178
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    43
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_VOLCANO": {
+                "amount": 1,
+                "turn": [
+                    92
+                ]
+            },
+            "MOMENT_CITY_BUILT_ON_DESERT": {
+                "amount": 4,
+                "turn": [
+                    18,
+                    55,
+                    174,
+                    183
+                ]
+            },
+            "MOMENT_CITY_BUILT_ON_TUNDRA": {
+                "amount": 1,
+                "turn": [
+                    105
+                ]
+            },
+            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    174
+                ]
+            },
+            "MOMENT_CITY_SIZE_SMALL_FIRST": {
+                "amount": 1,
+                "turn": [
+                    89
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 7,
+                "turn": [
+                    36,
+                    87,
+                    138,
+                    164,
+                    195,
+                    207,
+                    235
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 7,
+                "turn": [
+                    153,
+                    163,
+                    171,
+                    176,
+                    180,
+                    184,
+                    187
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": {
+                "amount": 1,
+                "turn": [
+                    38
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR": {
+                "amount": 1,
+                "turn": [
+                    232
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": {
+                "amount": 1,
+                "turn": [
+                    205
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 4,
+                "turn": [
+                    58,
+                    73,
+                    196,
+                    196
+                ]
+            },
+            "MOMENT_FORMATION_ARMY_FIRST": {
+                "amount": 1,
+                "turn": [
+                    193
+                ]
+            },
+            "MOMENT_FORMATION_CORPS_FIRST": {
+                "amount": 1,
+                "turn": [
+                    155
+                ]
+            },
+            "MOMENT_FORMATION_FLEET_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    204
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 1,
+                "turn": [
+                    91
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": {
+                "amount": 1,
+                "turn": [
+                    61
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 6,
+                "turn": [
+                    31,
+                    121,
+                    151,
+                    181,
+                    201,
+                    223
+                ]
+            },
+            "MOMENT_GOODY_HUT_TRIGGERED": {
+                "amount": 3,
+                "turn": [
+                    4,
+                    6,
+                    15
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    36
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST": {
+                "amount": 1,
+                "turn": [
+                    102
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST": {
+                "amount": 1,
+                "turn": [
+                    206
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 15,
+                "turn": [
+                    50,
+                    71,
+                    85,
+                    90,
+                    106,
+                    114,
+                    131,
+                    132,
+                    148,
+                    160,
+                    161,
+                    164,
+                    195,
+                    195,
+                    215
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": {
+                "amount": 6,
+                "turn": [
+                    69,
+                    102,
+                    122,
+                    170,
+                    203,
+                    223
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    28
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    48
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST": {
+                "amount": 1,
+                "turn": [
+                    193
+                ]
+            },
+            "MOMENT_MITIGATED_RIVER_FLOOD": {
+                "amount": 1,
+                "turn": [
+                    182
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    56
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    59
+                ]
+            },
+            "MOMENT_PLAYER_LEVIED_MILITARY": {
+                "amount": 1,
+                "turn": [
+                    219
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS": {
+                "amount": 1,
+                "turn": [
+                    150
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    26,
+                    43,
+                    100,
+                    102
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MANHATTEN": {
+                "amount": 1,
+                "turn": [
+                    222
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    217
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MOON_LANDING": {
+                "amount": 1,
+                "turn": [
+                    203
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH": {
+                "amount": 1,
+                "turn": [
+                    196
+                ]
+            },
+            "MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    217
+                ]
+            },
+            "MOMENT_SHIP_SUNK": {
+                "amount": 3,
+                "turn": [
+                    149,
+                    200,
+                    201
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 8,
+                "turn": [
+                    40,
+                    65,
+                    94,
+                    110,
+                    141,
+                    184,
+                    192,
+                    232
+                ]
+            },
+            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": {
+                "amount": 2,
+                "turn": [
+                    197,
+                    226
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": {
+                "amount": 1,
+                "turn": [
+                    173
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 4,
+                "turn": [
+                    69,
+                    110,
+                    168,
+                    173
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    115
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    22
+                ]
+            },
+            "MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL": {
+                "amount": 3,
+                "turn": [
+                    134,
+                    134,
+                    150
+                ]
+            },
+            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": {
+                "amount": 1,
+                "turn": [
+                    145
+                ]
+            }
         }
     },
     "4": {
         "name": "Америка",
         "leader": "Теодор Рузвельт (Мужественный всадник)",
         "moments": {
-            "MOMENT_BARBARIAN_CAMP_DESTROYED": 2,
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 1,
-            "MOMENT_BATTLE_FOUGHT": 177,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST": 1,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 2,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": 1,
-            "MOMENT_CITY_BUILT_NEAR_VOLCANO": 1,
-            "MOMENT_CITY_BUILT_NEW_CONTINENT": 1,
-            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": 1,
-            "MOMENT_CITY_SIZE_LARGE_FIRST": 1,
-            "MOMENT_CITY_SIZE_MEDIUM_FIRST": 1,
-            "MOMENT_CITY_SIZE_SMALL_FIRST": 1,
-            "MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL": 1,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 2,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD": 6,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 7,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE": 1,
-            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": 1,
-            "MOMENT_EMERGENCY_WON_AS_TARGET": 1,
-            "MOMENT_FIND_NATURAL_WONDER": 3,
-            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": 1,
-            "MOMENT_FORMATION_ARMY_FIRST_IN_WORLD": 1,
-            "MOMENT_FORMATION_CORPS_FIRST": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 2,
-            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 4,
-            "MOMENT_GOODY_HUT_TRIGGERED": 3,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD": 1,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 9,
-            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": 2,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD": 1,
-            "MOMENT_PANTHEON_FOUNDED": 1,
-            "MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR": 1,
-            "MOMENT_PLAYER_MET_ALL_MAJORS": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_PROJECT_FOUNDED_MANHATTEN": 1,
-            "MOMENT_PROJECT_FOUNDED_OPERATION_IVY": 1,
-            "MOMENT_SHIP_SUNK": 2,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 6,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD": 2,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR": 1,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 4,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": 2,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": 3,
-            "MOMENT_WORLD_CIRCUMNAVIGATED": 1
+            "MOMENT_BARBARIAN_CAMP_DESTROYED": {
+                "amount": 2,
+                "turn": [
+                    28,
+                    32
+                ]
+            },
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 1,
+                "turn": [
+                    60
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 177,
+                "turn": [
+                    7,
+                    8,
+                    16,
+                    16,
+                    20,
+                    21,
+                    22,
+                    22,
+                    22,
+                    23,
+                    26,
+                    27,
+                    28,
+                    28,
+                    30,
+                    38,
+                    43,
+                    48,
+                    49,
+                    50,
+                    50,
+                    51,
+                    53,
+                    54,
+                    54,
+                    55,
+                    55,
+                    57,
+                    58,
+                    58,
+                    58,
+                    61,
+                    61,
+                    62,
+                    63,
+                    111,
+                    113,
+                    114,
+                    133,
+                    133,
+                    133,
+                    133,
+                    134,
+                    134,
+                    134,
+                    135,
+                    135,
+                    137,
+                    137,
+                    138,
+                    140,
+                    142,
+                    144,
+                    145,
+                    145,
+                    151,
+                    153,
+                    153,
+                    153,
+                    161,
+                    161,
+                    161,
+                    162,
+                    162,
+                    162,
+                    162,
+                    162,
+                    163,
+                    163,
+                    163,
+                    163,
+                    163,
+                    164,
+                    164,
+                    164,
+                    164,
+                    164,
+                    164,
+                    164,
+                    165,
+                    165,
+                    165,
+                    165,
+                    165,
+                    165,
+                    165,
+                    165,
+                    166,
+                    166,
+                    166,
+                    166,
+                    166,
+                    167,
+                    167,
+                    167,
+                    168,
+                    168,
+                    169,
+                    169,
+                    169,
+                    179,
+                    179,
+                    179,
+                    179,
+                    179,
+                    179,
+                    180,
+                    180,
+                    180,
+                    180,
+                    180,
+                    180,
+                    181,
+                    181,
+                    181,
+                    181,
+                    181,
+                    181,
+                    181,
+                    182,
+                    184,
+                    184,
+                    184,
+                    185,
+                    185,
+                    186,
+                    186,
+                    186,
+                    187,
+                    187,
+                    187,
+                    187,
+                    202,
+                    204,
+                    204,
+                    204,
+                    204,
+                    205,
+                    205,
+                    205,
+                    206,
+                    206,
+                    207,
+                    207,
+                    208,
+                    208,
+                    208,
+                    209,
+                    209,
+                    210,
+                    211,
+                    211,
+                    211,
+                    212,
+                    215,
+                    215,
+                    220,
+                    220,
+                    221,
+                    221,
+                    221,
+                    221,
+                    221,
+                    222,
+                    222,
+                    222,
+                    222,
+                    226,
+                    227,
+                    228,
+                    230,
+                    233,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST": {
+                "amount": 1,
+                "turn": [
+                    220
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST": {
+                "amount": 1,
+                "turn": [
+                    168
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST": {
+                "amount": 1,
+                "turn": [
+                    186
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST": {
+                "amount": 1,
+                "turn": [
+                    198
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 2,
+                "turn": [
+                    101,
+                    116
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    39
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER": {
+                "amount": 1,
+                "turn": [
+                    72
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_VOLCANO": {
+                "amount": 1,
+                "turn": [
+                    1
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEW_CONTINENT": {
+                "amount": 1,
+                "turn": [
+                    39
+                ]
+            },
+            "MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    229
+                ]
+            },
+            "MOMENT_CITY_SIZE_LARGE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    185
+                ]
+            },
+            "MOMENT_CITY_SIZE_MEDIUM_FIRST": {
+                "amount": 1,
+                "turn": [
+                    156
+                ]
+            },
+            "MOMENT_CITY_SIZE_SMALL_FIRST": {
+                "amount": 1,
+                "turn": [
+                    82
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL": {
+                "amount": 1,
+                "turn": [
+                    228
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 2,
+                "turn": [
+                    196,
+                    230
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD": {
+                "amount": 6,
+                "turn": [
+                    35,
+                    67,
+                    84,
+                    108,
+                    146,
+                    167
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 7,
+                "turn": [
+                    153,
+                    163,
+                    171,
+                    176,
+                    180,
+                    184,
+                    187
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS": {
+                "amount": 1,
+                "turn": [
+                    38
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE": {
+                "amount": 1,
+                "turn": [
+                    230
+                ]
+            },
+            "MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST": {
+                "amount": 1,
+                "turn": [
+                    156
+                ]
+            },
+            "MOMENT_EMERGENCY_WON_AS_TARGET": {
+                "amount": 1,
+                "turn": [
+                    218
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 3,
+                "turn": [
+                    58,
+                    127,
+                    133
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    9
+                ]
+            },
+            "MOMENT_FORMATION_ARMY_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    154
+                ]
+            },
+            "MOMENT_FORMATION_CORPS_FIRST": {
+                "amount": 1,
+                "turn": [
+                    143
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 2,
+                "turn": [
+                    91,
+                    201
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE": {
+                "amount": 1,
+                "turn": [
+                    61
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE": {
+                "amount": 1,
+                "turn": [
+                    223
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 4,
+                "turn": [
+                    31,
+                    121,
+                    151,
+                    181
+                ]
+            },
+            "MOMENT_GOODY_HUT_TRIGGERED": {
+                "amount": 3,
+                "turn": [
+                    18,
+                    23,
+                    26
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": {
+                "amount": 1,
+                "turn": [
+                    42
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    84
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    162
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST": {
+                "amount": 1,
+                "turn": [
+                    210
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 9,
+                "turn": [
+                    56,
+                    86,
+                    88,
+                    115,
+                    134,
+                    148,
+                    160,
+                    179,
+                    192
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_PAST_ERA": {
+                "amount": 2,
+                "turn": [
+                    66,
+                    202
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    58
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    157
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    73
+                ]
+            },
+            "MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT": {
+                "amount": 1,
+                "turn": [
+                    221
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 1,
+                "turn": [
+                    61
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY": {
+                "amount": 1,
+                "turn": [
+                    213
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR": {
+                "amount": 1,
+                "turn": [
+                    213
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS": {
+                "amount": 1,
+                "turn": [
+                    137
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    26,
+                    27,
+                    101,
+                    102
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_MANHATTEN": {
+                "amount": 1,
+                "turn": [
+                    187
+                ]
+            },
+            "MOMENT_PROJECT_FOUNDED_OPERATION_IVY": {
+                "amount": 1,
+                "turn": [
+                    230
+                ]
+            },
+            "MOMENT_SHIP_SUNK": {
+                "amount": 2,
+                "turn": [
+                    168,
+                    222
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 6,
+                "turn": [
+                    41,
+                    61,
+                    81,
+                    129,
+                    141,
+                    212
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    103,
+                    153
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR": {
+                "amount": 1,
+                "turn": [
+                    202
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": {
+                "amount": 1,
+                "turn": [
+                    120
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 4,
+                "turn": [
+                    57,
+                    150,
+                    202,
+                    223
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    102,
+                    160
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    133
+                ]
+            },
+            "MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION": {
+                "amount": 3,
+                "turn": [
+                    187,
+                    206,
+                    208
+                ]
+            },
+            "MOMENT_WORLD_CIRCUMNAVIGATED": {
+                "amount": 1,
+                "turn": [
+                    128
+                ]
+            }
         }
     },
     "5": {
         "name": "Шумер",
         "leader": "Гильгамеш",
         "moments": {
-            "MOMENT_BARBARIAN_CAMP_DESTROYED": 1,
-            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": 1,
-            "MOMENT_BATTLE_FOUGHT": 103,
-            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": 1,
-            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": 1,
-            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": 1,
-            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": 1,
-            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": 4,
-            "MOMENT_CLIMATE_CHANGE_PHASE": 2,
-            "MOMENT_FIND_NATURAL_WONDER": 4,
-            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": 1,
-            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": 4,
-            "MOMENT_GOODY_HUT_TRIGGERED": 6,
-            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": 1,
-            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": 3,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": 1,
-            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": 1,
-            "MOMENT_PANTHEON_FOUNDED": 1,
-            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": 2,
-            "MOMENT_PLAYER_MET_ALL_MAJORS": 1,
-            "MOMENT_PLAYER_MET_MAJOR": 4,
-            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": 5,
-            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": 1,
-            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": 1,
-            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": 2,
-            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": 1,
-            "MOMENT_WAR_DECLARED_USING_CASUS_BELLI": 1,
-            "MOMENT_WORLD_CIRCUMNAVIGATED": 1
+            "MOMENT_BARBARIAN_CAMP_DESTROYED": {
+                "amount": 1,
+                "turn": [
+                    26
+                ]
+            },
+            "MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY": {
+                "amount": 1,
+                "turn": [
+                    79
+                ]
+            },
+            "MOMENT_BATTLE_FOUGHT": {
+                "amount": 103,
+                "turn": [
+                    11,
+                    13,
+                    14,
+                    15,
+                    16,
+                    16,
+                    16,
+                    17,
+                    17,
+                    18,
+                    18,
+                    18,
+                    19,
+                    20,
+                    22,
+                    23,
+                    25,
+                    26,
+                    28,
+                    29,
+                    30,
+                    30,
+                    31,
+                    33,
+                    35,
+                    36,
+                    37,
+                    40,
+                    40,
+                    46,
+                    47,
+                    50,
+                    50,
+                    51,
+                    51,
+                    53,
+                    55,
+                    59,
+                    65,
+                    69,
+                    71,
+                    72,
+                    73,
+                    73,
+                    76,
+                    79,
+                    80,
+                    80,
+                    81,
+                    86,
+                    93,
+                    98,
+                    99,
+                    108,
+                    109,
+                    109,
+                    110,
+                    117,
+                    118,
+                    118,
+                    118,
+                    118,
+                    119,
+                    119,
+                    122,
+                    122,
+                    123,
+                    123,
+                    143,
+                    143,
+                    144,
+                    145,
+                    147,
+                    150,
+                    150,
+                    151,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    155,
+                    155,
+                    156,
+                    156,
+                    156,
+                    157,
+                    157,
+                    157,
+                    158,
+                    158,
+                    158,
+                    159,
+                    160,
+                    160,
+                    161,
+                    161,
+                    161,
+                    162,
+                    162,
+                    163,
+                    163,
+                    164
+                ]
+            },
+            "MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER": {
+                "amount": 1,
+                "turn": [
+                    76
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER": {
+                "amount": 1,
+                "turn": [
+                    35
+                ]
+            },
+            "MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY": {
+                "amount": 1,
+                "turn": [
+                    128
+                ]
+            },
+            "MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER": {
+                "amount": 1,
+                "turn": [
+                    145
+                ]
+            },
+            "MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST": {
+                "amount": 4,
+                "turn": [
+                    40,
+                    82,
+                    118,
+                    144
+                ]
+            },
+            "MOMENT_CLIMATE_CHANGE_PHASE": {
+                "amount": 2,
+                "turn": [
+                    153,
+                    163
+                ]
+            },
+            "MOMENT_FIND_NATURAL_WONDER": {
+                "amount": 4,
+                "turn": [
+                    54,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE": {
+                "amount": 1,
+                "turn": [
+                    121
+                ]
+            },
+            "MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE": {
+                "amount": 4,
+                "turn": [
+                    31,
+                    61,
+                    91,
+                    151
+                ]
+            },
+            "MOMENT_GOODY_HUT_TRIGGERED": {
+                "amount": 6,
+                "turn": [
+                    2,
+                    6,
+                    23,
+                    26,
+                    27,
+                    28
+                ]
+            },
+            "MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST": {
+                "amount": 1,
+                "turn": [
+                    40
+                ]
+            },
+            "MOMENT_GREAT_PERSON_CREATED_GAME_ERA": {
+                "amount": 3,
+                "turn": [
+                    118,
+                    141,
+                    160
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    9
+                ]
+            },
+            "MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST": {
+                "amount": 1,
+                "turn": [
+                    85
+                ]
+            },
+            "MOMENT_PANTHEON_FOUNDED": {
+                "amount": 1,
+                "turn": [
+                    31
+                ]
+            },
+            "MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD": {
+                "amount": 2,
+                "turn": [
+                    54,
+                    77
+                ]
+            },
+            "MOMENT_PLAYER_MET_ALL_MAJORS": {
+                "amount": 1,
+                "turn": [
+                    150
+                ]
+            },
+            "MOMENT_PLAYER_MET_MAJOR": {
+                "amount": 4,
+                "turn": [
+                    11,
+                    60,
+                    120,
+                    137
+                ]
+            },
+            "MOMENT_TECH_RESEARCHED_IN_ERA_FIRST": {
+                "amount": 5,
+                "turn": [
+                    31,
+                    77,
+                    99,
+                    126,
+                    141
+                ]
+            },
+            "MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV": {
+                "amount": 1,
+                "turn": [
+                    106
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA": {
+                "amount": 1,
+                "turn": [
+                    120
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC": {
+                "amount": 2,
+                "turn": [
+                    65,
+                    105
+                ]
+            },
+            "MOMENT_UNIT_CREATED_FIRST_UNIQUE": {
+                "amount": 1,
+                "turn": [
+                    9
+                ]
+            },
+            "MOMENT_WAR_DECLARED_USING_CASUS_BELLI": {
+                "amount": 1,
+                "turn": [
+                    140
+                ]
+            },
+            "MOMENT_WORLD_CIRCUMNAVIGATED": {
+                "amount": 1,
+                "turn": [
+                    150
+                ]
+            }
         }
     }
 }
