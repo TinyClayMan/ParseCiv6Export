@@ -3,11 +3,13 @@ import json
 class Parser:
 	def __init__(self, data: dict, game: int):
 		self.data = data	# The original json file exported from Civ6.
-		self.game = game	# Ordinal number. Used to differentiate between json files (by appearing in their names).
+		self.game = game	# Ordinal number. Used to differentiate between json files 
+							# (by appearing in their names).
 
 	def count_moments(self):
-		"""Creates a json file in "output" directory with types of moments in the game. Returns an amount of unique moments.
-		
+		"""Creates a json file in the "output" directory with types of moments in the game. 
+		   Returns an amount of unique moments.
+
 		"""
 
 		types = {}
@@ -20,14 +22,14 @@ class Parser:
 			else:
 				types[i['Type']] += 1
 	
-		with open(f"output/event_type{self.game}.json", "w", encoding='utf-8') as write_file:
+		with open(f"output/events/event_type{self.game}.json", "w", encoding='utf-8') as write_file:
 			write_file.write(json.dumps(types, indent=4, sort_keys=True))
 		
 		return incr
 
 	def count_civ_moments(self, civId):
 		"""Returns moments related to a civilization. Each moment is returned with its amount 
-			and turns on which it happened.
+		   and turns on which it happened.
 		
 		Parameters
 		----------
@@ -80,7 +82,7 @@ class Parser:
 				civs[i['Id']] = civ
 				incr = incr + 1
 		
-		with open(f"output/civ_list{self.game}.json", "w", encoding='utf-8') as write_file:
+		with open(f"output/civilizations/civ_list{self.game}.json", "w", encoding='utf-8') as write_file:
 			write_file.write(json.dumps(civs, ensure_ascii=False, indent=4, sort_keys=False))
 		
 		return incr
