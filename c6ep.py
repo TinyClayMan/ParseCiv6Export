@@ -2,7 +2,7 @@ import json
 
 class Parser:
 	def __init__(self, data: dict, game: int):
-		self.data = data	# The original json file exported from Civ6.
+		self.data = data	# The original json exported from Civ6.
 		self.game = game	# Ordinal number. Used to differentiate between json files 
 							# (by appearing in their names).
 

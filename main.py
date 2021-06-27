@@ -1,23 +1,28 @@
 import json
 import os
+import re
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
 from c6ep import Parser
 
+# Ideally, the export file should have a number at the end
+# This function matches that number and returns it
+def gameNumber(file):
+    return re.search(r'([0-9]+)(?=\.)', file).group()
+
 # Parse the files
 def parse():
     directory = 'exports'   # Directory where json exports are stored
-    incr = 0                # Increment that will be included in the resulting files' names
+
     for file in os.listdir(directory):
         with open(f'{directory}/{file}', "r", encoding='utf-8') as read_file:
             data = json.load(read_file)
-  
-        parse = Parser(data, incr)
+
+        parse = Parser(data, gameNumber(file))
         print(parse.count_moments())
         print(parse.count_players(False))
-        incr += 1
 
 # Loads the parsed data into the Firebase DB
 def pushToFirebase():
@@ -39,14 +44,10 @@ def pushToFirebase():
     # Dictionary that will contain combined data
     game = {}
 
-    # Increment for game names
-    incr = 0
-
     for file in os.listdir(civDirectory):
         with open(f'{civDirectory}/{file}', 'r', encoding='utf-8') as read_file:
             data = json.load(read_file)
-        game[f"game{incr}"] = data
-        incr = incr + 1
+        game[f"game{gameNumber(file)}"] = data
 
     # Refreshing the increment
     incr = 0
@@ -55,7 +56,7 @@ def pushToFirebase():
             data = json.load(read_file)
         events = {}
         events["events"] = data
-        game[f"game{incr}"] = {**game[f"game{incr}"], **events}
+        game[f"game{gameNumber(file)}"] = {**game[f"game{gameNumber(file)}"], **events}
         
         ref.set(game)
         incr = incr + 1
