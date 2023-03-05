@@ -34,7 +34,7 @@ def pushToFirebase():
         'databaseURL': open('key/databaseURL.txt', 'r').read()
     })
 
-    # As an admin, the app has access to read and write all data, regradless of Security Rules
+    # As an admin, the app has access to read and write all data, regardless of Security Rules
     ref = db.reference('/statsForEvents')
 
     # Directories where the parsed data json files are stored
@@ -47,7 +47,8 @@ def pushToFirebase():
     for file in os.listdir(civDirectory):
         with open(f'{civDirectory}/{file}', 'r', encoding='utf-8') as read_file:
             data = json.load(read_file)
-        game[f"game{gameNumber(file)}"] = data
+        game_number = gameNumber(file)
+        game[f"game{game_number}"] = {'game_number': int(game_number), 'leaders': data}
 
     # Refreshing the increment
     incr = 0
@@ -56,7 +57,8 @@ def pushToFirebase():
             data = json.load(read_file)
         events = {}
         events["events"] = data
-        game[f"game{gameNumber(file)}"] = {**game[f"game{gameNumber(file)}"], **events}
+        game_number = gameNumber(file)
+        game[f"game{game_number}"] = {**game[f"game{game_number}"], **events}
         
         ref.set(game)
         incr = incr + 1

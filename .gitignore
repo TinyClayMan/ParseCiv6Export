@@ -1,5 +1,8 @@
 key
 exports
 output
+
 .vs
+.idea
 __pycache__
+env
